@@ -61,7 +61,7 @@
                         <mxPoint x="380" y="598" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="32" value="Answer_memory" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="32" value="Answer_memories" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="190" y="505" width="120" height="185" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="question_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
