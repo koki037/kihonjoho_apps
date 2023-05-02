@@ -56,28 +56,26 @@
                         <mxPoint x="200" y="310" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="42" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=ERmany;startFill=0;startSize=16;" edge="1" parent="1" source="32">
+                <mxCell id="42" style="edgeStyle=none;html=1;endArrow=none;endFill=0;startArrow=ERmany;startFill=0;startSize=16;" edge="1" parent="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="380" y="598" as="targetPoint"/>
+                        <mxPoint x="310" y="598" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="32" value="Answer_memories" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="190" y="505" width="120" height="185" as="geometry"/>
+                    <mxGeometry x="190" y="520" width="120" height="155" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="question_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
                     <mxGeometry y="25" width="80" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="35" value="time_stamp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
-                    <mxGeometry y="85" width="90" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="user_answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
                     <mxGeometry y="55" width="90" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="38" value="review_checked" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
-                    <mxGeometry y="115" width="110" height="30" as="geometry"/>
+                    <mxGeometry y="85" width="110" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="user_id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="32">
-                    <mxGeometry y="145" width="60" height="30" as="geometry"/>
+                    <mxGeometry y="115" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERmany;endFill=0;endSize=16;" edge="1" parent="1">
                     <mxGeometry relative="1" as="geometry">
